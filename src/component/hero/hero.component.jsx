@@ -20,7 +20,7 @@ const Hero = () => {
         1000, // wait 1s before replacing "Mice" with "Hamsters"
         'Front-end developer',
         1000,
-        'Pasitive thinker',
+        'Positive thinker',
         1000,
       ]}
       wrapper="span"
