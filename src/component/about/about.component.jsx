@@ -1,6 +1,6 @@
 import { useTransition,useState } from "react";
 import TabButton from "./tabbutton";
-
+import profile from '../../../public/assets/profile.jpeg'
 
 const TAB_DATA=[
     {
@@ -59,7 +59,7 @@ const AboutSection = () => {
             <div className="md:grid md:grid-cols-2 
             gap-8 items-center py-8 px-4 xl:gap-16 
             sm:py-16 xl:px-16">
-                <img src="https://media.licdn.com/dms/image/D4D03AQEnmUiQ5fFuuA/profile-displayphoto-shrink_800_800/0/1679594846810?e=1706140800&v=beta&t=yTGINRHrfKDqCiuzi1qWIo53QzHqVuAD9upxuVyj6sk"
+                <img src={profile}
                  alt="developer's"
                   width={400} height={400}
                   className=" rounded-full" />

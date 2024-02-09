@@ -1,6 +1,8 @@
 import { TypeAnimation } from 'react-type-animation';
 import SkillSection from '../skills/skill.component';
 import { Link } from 'react-router-dom';
+import profile from '../../../public/assets/profile.jpeg'
+
 const Hero = () => {
     return ( 
         <section className='md:mt-20'>
@@ -50,7 +52,7 @@ const Hero = () => {
 
         <div className=" 
         w-[250px] h-[250px] relative lg:w-[400px] lg:h-[400px]">
-            <img src="https://media.licdn.com/dms/image/D4D03AQEnmUiQ5fFuuA/profile-displayphoto-shrink_800_800/0/1679594846810?e=1706140800&v=beta&t=yTGINRHrfKDqCiuzi1qWIo53QzHqVuAD9upxuVyj6sk"
+            <img src={profile}
              alt="portfolio"
              width={300}
              height={300}
