@@ -24,6 +24,10 @@ const TAB_DATA=[
             <li>JavaScript</li>
             <li>HTML</li>
             <li>CSS</li>
+            <li>Bootstrap</li>
+            <li>Python</li>
+            <li>AI&ML</li>
+
              </ul>
         )
     },
@@ -68,7 +72,7 @@ const AboutSection = () => {
                     font-bold ">About Me</h2>
                     <p className="text-base md:text-lg mt-4">I'm a front-end developer with a passion for creating 
                         interactive and responsive web applications, I have experience
-                        working with JavaScript,React,HTML,CSS,and Git.I am a pasitive
+                        working with JavaScript,React,HTML,CSS,and Git.And also Knowledge about Python,AI&ML. I am a pasitive
                         thinker,quick learner and I am always looking to expand my 
                         knowledge and skill set.I am excited for wonderful opportunity.
  

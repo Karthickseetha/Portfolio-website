@@ -3,6 +3,10 @@ import { RiReactjsLine } from "react-icons/ri";
 import { IoLogoHtml5 } from "react-icons/io5";
 import { FaCss3Alt } from "react-icons/fa6";
 import { RiBootstrapFill } from "react-icons/ri";
+import { FaPython } from "react-icons/fa";
+import { GiArtificialIntelligence } from "react-icons/gi";
+
+
 
 
 const SkillSection = () => {
@@ -24,6 +28,9 @@ const SkillSection = () => {
             <IoLogoHtml5  className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
             <FaCss3Alt  className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
             <RiBootstrapFill className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
+            <FaPython className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
+            <GiArtificialIntelligence className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
+
 
             </div>
             </div>
