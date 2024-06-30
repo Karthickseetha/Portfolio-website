@@ -44,5 +44,27 @@ export  const projectData=[
         gitUrl:'https://github.com/Karthickseetha/React-Expense-Tracker',
         previewUrl:'https://meek-khapse-98333c.netlify.app/',
     },
+    {
+        id:7,
+        title:"React Ecommerce",
+        image:"/assets/ecommerce.png",
+        gitUrl:'https://github.com/Karthickseetha/React-Ecommerce-site',
+        previewUrl:'https://celebrated-platypus-6202f0.netlify.app/',
+    },
+    {
+        id:8,
+        title:"React Quiz app",
+        image:"/assets/quiz.png",
+        gitUrl:'https://github.com/Karthickseetha/React-Quiz-app',
+        previewUrl:'https://enchanting-profiterole-21c1dd.netlify.app/',
+    },
+    {
+        id:9,
+        title:"React Food-Recipe-App",
+        image:"/assets/recipe.png",
+        gitUrl:'https://github.com/Karthickseetha/Meal-finder-recipe',
+        previewUrl:'https://mealfinder-react.netlify.app/',
+    },
+
 
  ]

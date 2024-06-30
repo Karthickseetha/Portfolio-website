@@ -27,7 +27,6 @@ const SkillSection = () => {
             <IoLogoHtml5  className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
             <FaCss3Alt  className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
             <RiBootstrapFill className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
-            <FaPython className="text-white hover:cursor-pointer hover:text-yellow-500 text-6xl"/>
 
 
             </div>

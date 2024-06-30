@@ -25,8 +25,7 @@ const TAB_DATA=[
             <li>HTML</li>
             <li>CSS</li>
             <li>Bootstrap</li>
-            <li>Python</li>
-            <li>AI&ML</li>
+ 
 
              </ul>
         )
