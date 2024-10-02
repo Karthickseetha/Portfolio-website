@@ -65,6 +65,30 @@ export  const projectData=[
         gitUrl:'https://github.com/Karthickseetha/Meal-finder-recipe',
         previewUrl:'https://mealfinder-react.netlify.app/',
     },
+    {
+        id:10,
+        title:"Food-Delivery-Website",
+        image:"/assets/spoonweb.png",
+        gitUrl:'https://github.com/Karthickseetha/Spoon-web',
+        previewUrl:'https://foodspoon.netlify.app/',
+    },
+    {
+        id:11,
+        title:"Portfolio-Website",
+        image:"/assets/portfoilo.png",
+        gitUrl:'https://github.com/Karthickseetha/Portfolio',
+        previewUrl:'https://gositeportfolio.netlify.app/',
+    },
+    {
+        id:12,
+        title:"E-commerce-Grocery-website",
+        image:"/assets/buymi.png",
+        gitUrl:'https://github.com/Karthickseetha/E-commerce',
+        previewUrl:'https://buymie-commerce.netlify.app/',
+    },
+    
+    
+
 
 
  ]
