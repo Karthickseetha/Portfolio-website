@@ -3,7 +3,7 @@ import { projectData } from "../../constants";
 
 const ProjectSection = () => {
     return ( <>
-    <section className="mt-10 sm:mt-16 md:mt-20 ">
+    <section className="mt-12 sm:mt-18 md:mt-20 ">
         <h2 className="text-center text-4xl font-bold
         text-yellow-500 mt-4 ">My Projects</h2>
         <div className="grid md:grid-cols-3 gap-8 md:gap-3 mt-4">
