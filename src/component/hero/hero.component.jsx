@@ -20,9 +20,9 @@ const Hero = () => {
         // Same substring at the start will only be typed out once, initially
         'Karthick',
         1000, // wait 1s before replacing "Mice" with "Hamsters"
-        'Front-end developer',
+        'Software Developer Associate',
         1000,
-        'Positive thinker',
+        'MindfulAi Technologies',
         1000,
       ]}
       wrapper="span"
@@ -31,8 +31,8 @@ const Hero = () => {
     />
         </h1>
         <p className="text-slate-200 sm:text-lg mb-6 lg:text-xl ">
-        I'm a front-end developer with a passion for creating 
-                        interactive and responsive web applications.
+        I'm currently working as a <strong>Software Developer Associate</strong> at 
+        <strong> MindfulAi Technologies</strong>.
         </p>
         <div>
             <Link to='https://www.linkedin.com/in/karthick-it/'><button className="px-6 py-3 w-full sm:w-fit rounded-full

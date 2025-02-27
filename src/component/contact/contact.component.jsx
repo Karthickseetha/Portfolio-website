@@ -16,9 +16,9 @@ const ContactSection = () => {
                     Let' Connect
                     </h5>
                     <p className="text-white mb-4 max-w-md">
-                    I'm a front-end developer with a passion for creating 
-                    interactive and responsive web applications.
-                 i'm currently looking for job opportunities.
+                    I'm currently working as a <strong>Software Developer Associate</strong> at 
+                    <strong> MindfulAi Technologies</strong>.
+                    Feel free to reach out collaboration, discussions,or just a tech chat!
                     </p>
             <div className="grid md:grid-cols-1 ">
             <MdEmail className="text-yellow-500"/>

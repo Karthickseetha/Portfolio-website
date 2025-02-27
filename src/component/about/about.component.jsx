@@ -69,12 +69,9 @@ const AboutSection = () => {
                  <div className="mt-4 md:mt-0 ">
                     <h2 className="text-yellow-500 text-4xl  
                     font-bold ">About Me</h2>
-                    <p className="text-base md:text-lg mt-4">I'm a front-end developer with a passion for creating 
-                        interactive and responsive web applications, I have experience
-                        working with JavaScript,React,HTML,CSS,and Git.And also Knowledge about Python,AI&ML. I am a pasitive
-                        thinker,quick learner and I am always looking to expand my 
-                        knowledge and skill set.I am excited for wonderful opportunity.
- 
+                    <p className="text-base md:text-lg mt-4">Passinate Software Developer specializing in modern web Technologies like React, Vite, Nextjs and javaScript.
+                    Currently working at <strong>MindfulAi Technologies</strong>, where I build scalable, efficient, and user-friendly applications. 
+                    I love solving complex problems and continuously learning new technologies to enhance my skills.
                     </p>
                     
                     <div className="flex flex-row justify-start 
