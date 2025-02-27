@@ -58,7 +58,7 @@ const AboutSection = () => {
         })
     }
     return (
-        <section className="text-white md:mt-20">
+        <section className="text-white mt-10 sm:mt-16 md:mt-20">
             <div className="md:grid md:grid-cols-2 
             gap-8 items-center py-8 px-4 xl:gap-16 
             sm:py-16 xl:px-16">
